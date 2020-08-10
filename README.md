@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 -->
 
 
-![gif from nerdy.dev](https://github.com/shivammaheshwari9837/DS-and-Algorithms-sm2.gif?raw=true)
+![gif from nerdy.dev](https://github.com/argyleink/argyleink/blob/master/argyleink-sm2.gif?raw=true)
