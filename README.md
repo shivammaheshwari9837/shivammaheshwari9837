@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...I can troll you....
 -->
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=sw-yx&show_icons=true&cache_seconds=86400) 
