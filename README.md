@@ -1,3 +1,5 @@
+![gif from nerdy.dev](https://github.com/argyleink/argyleink/blob/master/argyleink-sm2.gif?raw=true)
+
 ### Here is what I am currently working On !!! 👋
 
 Here are some ideas to get you started:
@@ -12,5 +14,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...I can troll you....
 -->
 
-
-![gif from nerdy.dev](https://github.com/argyleink/argyleink/blob/master/argyleink-sm2.gif?raw=true)
