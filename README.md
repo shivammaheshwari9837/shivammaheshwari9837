@@ -11,3 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...Let's Do It !!
 - ⚡ Fun fact: ...I can troll you....
 -->
+
+
+![gif from nerdy.dev](https://github.com/argyleink/argyleink/blob/master/argyleink-sm2.gif?raw=true)
