@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...I can troll you....
 -->
 
-![Github stats](https://news-app-nu-nine.vercel.app/api?username=shivammaheshwari9837&show_icons=true&cache_seconds=86400) 
