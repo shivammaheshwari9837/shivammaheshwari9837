@@ -35,3 +35,23 @@ struct Engineer {
     let exploring   = ["Agentic Dev", "Apple Intelligence", "AI Workflows"]
     let openToWork  = true   // always up for great iOS opportunities
 }
+```
+
+<!-- ══════════════════════════  JOURNEY  ══════════════════════════ -->
+## &nbsp;🗺️ &nbsp;My Journey
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=4EA8DE&center=true&vCenter=true&width=680&lines=CodeChef+%E2%86%92+GeeksforGeeks+%E2%86%92+HashedIn+%E2%86%92+Paytm+%E2%86%92+Expedia;Contest+grit+%E2%86%92+Engineering+craft+%E2%86%92+Platform+impact" alt="journey typing" />
+</a>
+
+<br/><br/>
+
+<img width="900" alt="Career Journey Timeline" src="./assets/career-journey.svg" />
+
+<br/>
+
+`⚔️ CodeChef` → `📚 GFG` → `💼 HashedIn` → `💳 Paytm Money` → `✈️ Expedia Group`
+
+</div>
