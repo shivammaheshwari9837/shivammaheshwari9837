@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="920" viewBox="0 0 900 920" role="img" aria-labelledby="title desc">
+  <title id="title">Shivam Maheshwari — Career Journey</title>
+  <desc id="desc">CodeChef to GeeksforGeeks to HashedIn Deloitte to Paytm Money to Expedia Group</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="50%" stop-color="#121a33"/>
+      <stop offset="100%" stop-color="#0c1630"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#5B4638"/>
+      <stop offset="25%" stop-color="#2F8D46"/>
+      <stop offset="50%" stop-color="#0076A8"/>
+      <stop offset="75%" stop-color="#00BAF2"/>
+      <stop offset="100%" stop-color="#4EA8DE"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#16213e"/>
+      <stop offset="100%" stop-color="#0f3460"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="soft">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#4EA8DE" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="920" rx="28" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="897" height="917" rx="27" fill="none" stroke="#4EA8DE" stroke-opacity="0.25"/>
+
+  <!-- Header -->
+  <text x="450" y="58" text-anchor="middle" fill="#EAF2FF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700">
+    The Climb
+  </text>
+  <text x="450" y="88" text-anchor="middle" fill="#8FB7D8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15">
+    Contest grit → engineering craft → platform impact
+  </text>
+
+  <!-- Spine -->
+  <line x1="120" y1="140" x2="120" y2="820" stroke="url(#line)" stroke-width="6" stroke-linecap="round" opacity="0.95"/>
+
+  <!-- NODE 1: CodeChef -->
+  <circle cx="120" cy="180" r="18" fill="#5B4638" filter="url(#glow)"/>
+  <circle cx="120" cy="180" r="8" fill="#FFE8C7"/>
+  <rect x="170" y="130" width="660" height="100" rx="18" fill="url(#card)" filter="url(#soft)" opacity="0.95"/>
+  <text x="198" y="168" fill="#FFD7A8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">CHAPTER 01 · COLLEGE</text>
+  <text x="198" y="196" fill="#FFFFFF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">⚔️  CodeChef</text>
+  <text x="198" y="220" fill="#B7C7DB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Daily contests. Rank hunger. Learning to think under pressure.</text>
+
+  <!-- NODE 2: GFG -->
+  <circle cx="120" cy="310" r="18" fill="#2F8D46" filter="url(#glow)"/>
+  <circle cx="120" cy="310" r="8" fill="#D8FFE4"/>
+  <rect x="170" y="260" width="660" height="100" rx="18" fill="url(#card)" filter="url(#soft)" opacity="0.95"/>
+  <text x="198" y="298" fill="#A8F0BF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">CHAPTER 02 · COLLEGE</text>
+  <text x="198" y="326" fill="#FFFFFF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">📚  GeeksforGeeks</text>
+  <text x="198" y="350" fill="#B7C7DB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Speed became structure — patterns, complexity, and real CS depth.</text>
+
+  <!-- NODE 3: HashedIn -->
+  <circle cx="120" cy="440" r="18" fill="#0076A8" filter="url(#glow)"/>
+  <circle cx="120" cy="440" r="8" fill="#D7F3FF"/>
+  <rect x="170" y="390" width="660" height="100" rx="18" fill="url(#card)" filter="url(#soft)" opacity="0.95"/>
+  <text x="198" y="428" fill="#9AD8F5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">CHAPTER 03 · MAR–JUL 2021</text>
+  <text x="198" y="456" fill="#FFFFFF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">💼  HashedIn by Deloitte · SDE Intern</text>
+  <text x="198" y="480" fill="#B7C7DB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">First production ship — Client Billing automation for real finance users.</text>
+
+  <!-- NODE 4: Paytm -->
+  <circle cx="120" cy="570" r="18" fill="#00BAF2" filter="url(#glow)"/>
+  <circle cx="120" cy="570" r="8" fill="#E7F9FF"/>
+  <rect x="170" y="520" width="660" height="100" rx="18" fill="url(#card)" filter="url(#soft)" opacity="0.95"/>
+  <text x="198" y="558" fill="#9DE7FF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">CHAPTER 04 · SEP 2021 – NOV 2023</text>
+  <text x="198" y="586" fill="#FFFFFF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">💳  Paytm Money · Software Engineer (iOS)</text>
+  <text x="198" y="610" fill="#B7C7DB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">FnO Dashboard · Voice Trading QnA · Rising Star Award ⭐</text>
+
+  <!-- NODE 5: Expedia (YOU ARE HERE) -->
+  <circle cx="120" cy="700" r="22" fill="#4EA8DE" filter="url(#glow)"/>
+  <circle cx="120" cy="700" r="9" fill="#FFFFFF"/>
+  <rect x="170" y="650" width="660" height="120" rx="18" fill="#0f3460" stroke="#4EA8DE" stroke-width="2" filter="url(#soft)"/>
+  <text x="198" y="688" fill="#7EC8F5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">CHAPTER 05 · NOV 2023 – PRESENT · YOU ARE HERE</text>
+  <text x="198" y="718" fill="#FFFFFF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">✈️  Expedia Group · Mobile Engineer 3 (iOS) · Vrbo</text>
+  <text x="198" y="744" fill="#B7C7DB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">App Intents + Siri · Trip To-Do List · Live Activities · Top Performer 🥇</text>
+
+  <!-- Footer arc -->
+  <text x="450" y="840" text-anchor="middle" fill="#EAF2FF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600">
+    Next stop → AI-assisted &amp; agentic iOS development
+  </text>
+  <text x="450" y="868" text-anchor="middle" fill="#6F8FB0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">
+    Building what’s after “just apps.”
+  </text>
+</svg>
