@@ -83,7 +83,7 @@
   <circle cx="120" cy="700" r="9" fill="#FFFFFF"/>
   <rect x="170" y="650" width="660" height="120" rx="18" fill="#0f3460" stroke="#4EA8DE" stroke-width="2" filter="url(#soft)"/>
   <text x="198" y="688" fill="#7EC8F5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">CHAPTER 05 · NOV 2023 – PRESENT · YOU ARE HERE</text>
-  <text x="198" y="718" fill="#FFFFFF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">✈️  Expedia Group · Mobile Engineer 3 (iOS) · Vrbo</text>
+  <text x="198" y="718" fill="#FFFFFF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700">✈️  Expedia Group · Mobile Engineer 3 (iOS)</text>
   <text x="198" y="744" fill="#B7C7DB" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">App Intents + Siri · Trip To-Do List · Live Activities · Top Performer 🥇</text>
 
   <!-- Footer arc -->
