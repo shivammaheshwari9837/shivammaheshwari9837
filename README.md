@@ -29,7 +29,7 @@
 ```swift
 struct Engineer {
     let name        = "Shivam Maheshwari"
-    let role        = "iOS Engineer @ Expedia Group (Vrbo)"
+    let role        = "iOS Engineer @ Expedia Group"
     let experience  = "5+ years shipping production iOS apps"
     let focus       = ["SwiftUI", "Combine", "Swift Concurrency", "Clean Architecture"]
     let exploring   = ["Agentic Dev", "Apple Intelligence", "AI Workflows"]
