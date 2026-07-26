@@ -1,6 +1,6 @@
 <!-- ══════════════════════════  HERO  ══════════════════════════ -->
 <a href="https://github.com/shivammaheshwari9837">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Shivam%20Maheshwari&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=iOS%20Engineer%20@%20Expedia%20Group&descAlignY=58&descSize=20" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Shivam%20Maheshwari&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=iOS%20Engineer%203%20@%20Expedia%20Group&descAlignY=58&descSize=20" alt="header"/>
 </a>
 
 <div align="center">
